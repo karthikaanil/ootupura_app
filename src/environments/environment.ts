@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://chsappbackend.glitch.me'
+  url: 'https://ootupura.glitch.me'
 };
 
 /*
